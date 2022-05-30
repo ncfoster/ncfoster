@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ncfoster
 - 👀 I’m interested in network automation
-- 🌱 I’m currently learning Cisco Devnet certification
+- 🌱 I’m currently learning Cisco Devnet certification, by way of Python and CCNA first
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
